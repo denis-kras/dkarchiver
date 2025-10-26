@@ -1,0 +1,8 @@
+dkarchiver.egg-info/
+build/
+.idea/
+__pycache__/
+Utils/CreateWheel and clean.cmd
+Utils/PyPIupload.cmd
+
+Z_Git Upload.cmd
